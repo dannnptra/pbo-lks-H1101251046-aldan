@@ -1,7 +1,7 @@
 # PBO LKS — Portofolio Praktikum
  
 - Nama : Aldan Putra Setiawan
-- NIM  : H11101251046
+- NIM  : H1101251046
 - Kelas: A
  
 ## Daftar Pertemuan
